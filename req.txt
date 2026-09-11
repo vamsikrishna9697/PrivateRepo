@@ -1,3 +1,4 @@
 Jenkins sample data check
 second time adding for testing
 cron job
+hours minutes date month dayin a week
