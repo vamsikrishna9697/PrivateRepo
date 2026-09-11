@@ -4,3 +4,4 @@ cron job
 hours minutes date month dayin a week
 hit crontab guru
 guru run it
+sample
